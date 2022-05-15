@@ -20,3 +20,7 @@ ex.: npm install
 
 - Rode o servidor
 ex.: npm start
+
+## Postman
+
+O arquivo APIAMCOM.postman_collection.json pode ser importado no postman para ver como a API funciona

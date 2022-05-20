@@ -44,5 +44,3 @@ DATABASES = {
 ### Postman
 
 O arquivo APIAMCOM.postman_collection.json pode ser importado no postman para ver como a API funciona
-
-New line
